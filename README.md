@@ -13,3 +13,4 @@
 5.10K potentiometer
 6.Jumper wires
 7.Breadboard
+8.LED
